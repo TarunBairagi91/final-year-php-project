@@ -19,13 +19,13 @@
         <div class="col l6 s12">
           <h5 class="text-dark fw-bold fs-4"><i class='fas fa-code'></i> Programmer Details</h5>
           <p class="grey-text text-light fs-5">Tarun Bairagi | Pratapgarh | Rajasthan | 9116806306 <i class='fas fa-phone'></i> </p>
-          <span><a href="#" class="text-light text-decoration-none fs-6 fw-bold"><i class='fas fa-envelope text-danger'></i> <i>tarunbairagi7240@gmail.com</i></a></span>
+          <span><a href="https://mail.google.com/" class="text-light text-decoration-none fs-6 fw-bold"><i class='fas fa-envelope text-danger'></i> <i>tarunbairagi7240@gmail.com</i></a></span>
           <p class="grey-text text-light"><a class="text-warning text-decoration-none fs-4 fw-bold" href="http://apccollegepratapgarh.com/">apc college pratapgarh</a></p>
         </div>
         <div class="col l4 offset-l2 s12">
           <h5 class="text-light"><i class='fas fa-comment-dots'></i> Socal Media</h5>
           <ul>
-            <li class="list-unstyled"><a class="text-light fs-6 text-decoration-none" href="#!"><i class="fa fa-github"></i> GitHub</a></li>
+            <li class="list-unstyled"><a class="text-light fs-6 text-decoration-none" href="https://github.com/TarunBairagi91/final-year-php-project"><i class="fa fa-github"></i> GitHub</a></li>
             <li class="list-unstyled"><a class="text-light fs-6 text-decoration-none" href="#!"><i class="fa fa-linkedin"></i> Linkedln</a></li>
             <li class="list-unstyled"><a class="text-light fs-6 text-decoration-none" href="#!"><i class="fa fa-instagram"></i> Instagram</a></li>
             <li class="list-unstyled"><a class="text-light fs-6 text-decoration-none" href="#!"><i class="fa fa-whatsapp"></i> WhatsApp</a></li>
